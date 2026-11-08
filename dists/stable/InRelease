@@ -8,28 +8,28 @@ Codename: stable
 Architectures: amd64 arm64
 Components: main
 Description: Signed APT repository for vmr
-Date: Sat, 07 Nov 2026 13:31:25 UTC
+Date: Sun, 08 Nov 2026 16:37:22 UTC
 MD5Sum:
- 072fddd4862d3e6c6fb0d91656cb4a3f 541 main/binary-amd64/Packages
- e7d9da7b961b27ebe6c525a92d81e11b 396 main/binary-amd64/Packages.gz
- 35ad13723b405d19eb80aeaba1d9850d 541 main/binary-arm64/Packages
- 8991e65e0df4e250c8ce5d15d65941d7 395 main/binary-arm64/Packages.gz
+ 9315f720718f2b514ffd749b0f553f13 1082 main/binary-amd64/Packages
+ 76e52f6abe70780dbbcc87a368061e58 470 main/binary-amd64/Packages.gz
+ 41bab83895552e040a835d964d791595 1082 main/binary-arm64/Packages
+ 773d165544d91b21a1ef3039e593399a 471 main/binary-arm64/Packages.gz
 SHA256:
- f79d502b718098c3493871b535c18ad2b02497f11afe20fb8bb791abbb21318e 541 main/binary-amd64/Packages
- 9a62227b53cee89961af11cdd29cfd8a3a923b1c30b1b9969ea1263d4709fa77 396 main/binary-amd64/Packages.gz
- ba967aa4b6961a8f74872d3d3f2d974d84cea3f760451a5b942cb11a3e84f1c6 541 main/binary-arm64/Packages
- b5b220bc2527079dce9bb1a2fd05d1499278490386166d95143b2572abacba6c 395 main/binary-arm64/Packages.gz
+ f9f47e434547c511c55167d256bbb1e79367a31a0d42a590dc3dcc231a8ca9c7 1082 main/binary-amd64/Packages
+ ab024daa0a8d062c5d6cc35a4c6d4a74f8f6d49174a8d002378fa899a056b347 470 main/binary-amd64/Packages.gz
+ 86c961cf116889d6b67505479e65e396a6020d8ee76cc97553a928ea4492d4b3 1082 main/binary-arm64/Packages
+ 93f607899a1db1ed12c770e3cf0891d6ea701583467367d28260ec7d5fe8efd5 471 main/binary-arm64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCAAdFiEEw4fprlyTYkjURoaMROWgMjVF6FgFAmrvKC0ACgkQROWgMjVF
-6FhOAwv/U4gzh6iiP405wcdauAKzsDYj/pYLgwEZX9M09u9IWT4OypoxYD5vycUx
-nPy2Eg51kZyk09ou6A05PR3rU9LFMRtNAYbAm7r4Jrl1Zq2vaocTyKJJZIs10XzO
-aKyD0cyXWHlF/qucJ16zkAx5ZA3k7wdsMbJFnJ7oqtj6XuI5D79E3D/oCdPsfG/M
-kI8AfhBCa2gpNczsbqX2dZnkNXdBFopNcML+vMD1oIwvhnjt+tKokoGqu6VYzbVW
-2U9h+ssSIuqxLEb8oqj1zCxDhzeZGQBxFDL8XLzgr8eazyST3c5+jst00+c6bSBb
-a1fK/Zm6HDgjN9Opob2uHXVex7wnjLJDuZOeRwOC+WyfsFJo9d7oI494zTfdFR2i
-b9cUlvtAo793oEbXux1irwXNg9x/d6/juG6z3fxKAN4FGwRT0AArM4G2igRUGEZO
-ncltMrFr7UtYR5Awh5zB9Cc78wOWPdP7m40Vg64EZpIJ941c/npa6A0TUqmcTrSx
-YCDGbmLV
-=0hHP
+iQGzBAEBCAAdFiEEw4fprlyTYkjURoaMROWgMjVF6FgFAmrwpUIACgkQROWgMjVF
+6Fj7+gwAsEhzyNpUFDLcNBC1s3MoURnBZdAGSptwuJ/JFiHv+PhSTSHNJOKn9KYb
+MyzTMetE/jQvK4jM3VIrZc8Y3SFsIlAnfWjubJ2MixzUAJoKmy36nWVt6DnDYIK6
+4N+MG4tbUmNmfmB0xpc0vvgxc8ATS1EO0+Q/Fp5Hy0K+nYWOVGgVxflAI0D/pxTR
+XmpiuagVw8lvx/BBHKC9u1fHR8gFUU6cDseebxwLdLeTNi6l0KNbQ3aj1ikXUo0l
+FY+KSI1NuJR+BHe97wNsTK0I/U4D9E4ScQFTVquu66mSCM1gpoCzN2lAorj0cAtJ
+81IgczuYoYKqZdffftFQjrU7iLevCN6++qklDEsRm+hY5OuirD8/m7btz0sZSErR
+73bkn5svzl4s9GKeRjyTNAKG+87LKXhbSopXiP68JROIZqB0+jAXbddULfSlcChk
+fGh2XT6MOsAlfzljSy4OnbEczZT2jxujrGFmCeiKhq+lrk8c8LTuZwa8+yxX/gRI
+i45IGeM7
+=Z6FP
 -----END PGP SIGNATURE-----
