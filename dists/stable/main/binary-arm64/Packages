@@ -28,3 +28,18 @@ Filename: pool/main/v/vmr/vmr_0.8.1_arm64.deb
 Size: 5948296
 SHA256: da74ba07ac13446a3ebd3fd302618bbe5b2fc3846a57e199339b0d45b387bb69
 
+Package: vmr
+Version: 0.8.2
+Architecture: arm64
+Maintainer: gvcgo <gvcgo@users.noreply.github.com>
+Installed-Size: 26828
+Section: utils
+Priority: optional
+Homepage: https://github.com/gvcgo/version-manager
+Description: Cross-platform SDK version manager
+ vmr installs multiple versions of Go, Node.js, Python, JDK, Rust and other
+ SDKs side by side, and switches between them per shell, project or session.
+Filename: pool/main/v/vmr/vmr_0.8.2_arm64.deb
+Size: 6038632
+SHA256: 12083f88e2fd47a0d627fcaec67c56c62e3920e040918caaf51ca4bb6240505a
+
