@@ -5,14 +5,14 @@ Codename: stable
 Architectures: amd64 arm64
 Components: main
 Description: Signed APT repository for vmr
-Date: Fri, 13 Nov 2026 13:55:16 UTC
+Date: Sat, 14 Nov 2026 02:05:38 UTC
 MD5Sum:
- e8dfb89fe6f05ce9e959fcb0af802fd9 2164 main/binary-amd64/Packages
- 2e379a01fdf1f2ca49b4bd23f8b98e40 603 main/binary-amd64/Packages.gz
- b0700215d3743557e7f09e8ab92b4a37 2164 main/binary-arm64/Packages
- 86f4f10c1b2e2207be6e134c08d57707 600 main/binary-arm64/Packages.gz
+ 5271d7ebdc89ba3d8fee3ce5363cf111 2705 main/binary-amd64/Packages
+ ccef29c481b492054ced9f550b143254 667 main/binary-amd64/Packages.gz
+ e621f63bc4d239d3f42b7c5d5fcc0611 2705 main/binary-arm64/Packages
+ e31c73a289f497d88b2f02aef54f2db1 663 main/binary-arm64/Packages.gz
 SHA256:
- 8bc7d4a57f2515a9152deea07c071423e9b3dcd29b98bf87e1fa85daa06e1cdc 2164 main/binary-amd64/Packages
- ed14a30fd941fe92da1d8a2376613a54c808b7222c6cc5497c09803325b6c756 603 main/binary-amd64/Packages.gz
- f36ba8e651ea7e87527e9c548867eabbeebbb304d1ec5ac7d4ebb56231e1e2ad 2164 main/binary-arm64/Packages
- c961bf9bb2b2a68245d6a410086a1c7f4152b4de5899bde5dcaf92084992bc53 600 main/binary-arm64/Packages.gz
+ 905c5d0961d2cdc7256051d12a4ce475704fc86dd00428e40a13a826e2f0e1c0 2705 main/binary-amd64/Packages
+ 2b5a7a0e233ca8eb886d7daa1ee22cac179b9cd24330e1e8a33955981717229b 667 main/binary-amd64/Packages.gz
+ e0d305d1b300e69a6e138c0059f379f291a811dc20a3f2a9eb67ad56a04e04cd 2705 main/binary-arm64/Packages
+ 7b33c3f09ebd6c62c47be8c0f8caec3e1612c9d2f1c213f0d7e9f1556c8fbb62 663 main/binary-arm64/Packages.gz
